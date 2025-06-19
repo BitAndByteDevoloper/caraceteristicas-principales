@@ -1,0 +1,86 @@
+{
+  "id": 9612826509612,
+  "title": "Tóner HP 507X",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Tóner HP 507X</div>\n        <div class=\"product_description_innova_tech\">Tóner HP 507X - CE400X, Negro - Alto rendimiento</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>507X</dd>\n                <dt>Número de Parte:</dt>\n                <dd>CE400X</dd>\n                <dt>Especificaciones:</dt>\n                <dd></dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T23:36:41-06:00",
+  "handle": "toner-hp-507x",
+  "updated_at": "2025-06-16T16:38:05-06:00",
+  "published_at": "2024-08-28T23:36:41-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "507X, CE400X, Consumibles, HP, Tners",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9612826509612",
+  "variants": [
+    {
+      "id": 49707242684716,
+      "product_id": 9612826509612,
+      "title": "Default",
+      "price": "6249.14",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T23:36:41-06:00",
+      "updated_at": "2025-05-10T19:39:19-06:00",
+      "taxable": true,
+      "barcode": null,
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "TONHPP3290",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51748095131948,
+      "inventory_quantity": 0,
+      "old_inventory_quantity": 0,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49707242684716",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12039071498540,
+      "product_id": 9612826509612,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49881897992492,
+      "alt": null,
+      "position": 1,
+      "product_id": 9612826509612,
+      "created_at": "2025-04-11T11:33:34-06:00",
+      "updated_at": "2025-04-11T11:33:34-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49881897992492",
+      "width": 1408,
+      "height": 1408,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/beff5a1e699e15d795c1bfbfd40ee846.png?v=1744392814",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49881897992492,
+    "alt": null,
+    "position": 1,
+    "product_id": 9612826509612,
+    "created_at": "2025-04-11T11:33:34-06:00",
+    "updated_at": "2025-04-11T11:33:34-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49881897992492",
+    "width": 1408,
+    "height": 1408,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/beff5a1e699e15d795c1bfbfd40ee846.png?v=1744392814",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": "<div class=\"caracter-main\">\n<div class=\"caracter-main-icon-placeholder\">\n<img alt=\"Icono Información\" src=\"https://cdn.shopify.com/s/files/1/0889/0246/7884/files/CaracteristicasBlanco.svg?v=1735255400\"/>\n</div>\n<span class=\"caracter-main-text\">Características Principales</span>\n<div class=\"caracter-main-icon\">\n<svg aria-hidden=\"true\" class=\"icon icon-caret\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n</div>\n<div class=\"caracter-main-content\">\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Características\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Acerca de:</dt>\n<dd>Teclado Bluetooth, con Touchpad de 4.5” integrado, con 78 teclas resistentes de alto impacto a media altura, multilenguaje, compatible con Win, Android, IOS, Mac y Smart TV, Diseño compacto y  ergonómico para su fácil uso en color negro. Batería recargable, con garantía de 1 año</dd>\n</dl>\n</div>\n</div>\n</div>"
+}

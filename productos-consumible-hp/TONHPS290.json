@@ -1,0 +1,112 @@
+{
+  "id": 9611855626540,
+  "title": "Tóner HP MLT-D101S",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Tóner HP MLT-D101S</div>\n        <div class=\"product_description_innova_tech\">Tóner Samsung, SU701A,  MLT-D101S - Negro</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>MLT-D101S</dd>\n                <dt>Número de Parte:</dt>\n                <dd>SU701A</dd>\n                <dt>Especificaciones:</dt>\n                <dd>\n<strong>Colores de impresión:</strong> Negro<br><strong>Producción de papel:</strong> 1500 páginas<br>\n</dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T11:30:55-06:00",
+  "handle": "toner-hp-mlt-d101s",
+  "updated_at": "2025-06-16T16:39:56-06:00",
+  "published_at": "2024-08-28T11:30:55-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "191628480715, Centro de Distribucin Azcapotzalco, Centro de Distribucin Hermosillo, Consumibles, HP, MLT-D101S, Puebla, SU701A, Tlaxcala, Tners",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9611855626540",
+  "variants": [
+    {
+      "id": 49703137444140,
+      "product_id": 9611855626540,
+      "title": "Default",
+      "price": "1755.43",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T11:30:56-06:00",
+      "updated_at": "2025-06-16T16:39:56-06:00",
+      "taxable": true,
+      "barcode": "191628480715",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "TONHPS290",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51743978815788,
+      "inventory_quantity": 32,
+      "old_inventory_quantity": 32,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49703137444140",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12037868126508,
+      "product_id": 9611855626540,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49882180845868,
+      "alt": null,
+      "position": 1,
+      "product_id": 9611855626540,
+      "created_at": "2025-04-11T11:59:36-06:00",
+      "updated_at": "2025-04-11T11:59:36-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49882180845868",
+      "width": 1540,
+      "height": 1540,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/c5866445284e8a6c4c8e11467a45c122.png?v=1744394376",
+      "variant_ids": []
+    },
+    {
+      "id": 49882180944172,
+      "alt": null,
+      "position": 2,
+      "product_id": 9611855626540,
+      "created_at": "2025-04-11T11:59:38-06:00",
+      "updated_at": "2025-04-11T11:59:38-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49882180944172",
+      "width": 1540,
+      "height": 1540,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/c5866445284e8a6c4c8e11467a45c122_ceb972bc-3024-4c11-98a8-a7d1236f5006.png?v=1744394378",
+      "variant_ids": []
+    },
+    {
+      "id": 49882181108012,
+      "alt": null,
+      "position": 3,
+      "product_id": 9611855626540,
+      "created_at": "2025-04-11T11:59:40-06:00",
+      "updated_at": "2025-04-11T11:59:41-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49882181108012",
+      "width": 1540,
+      "height": 1540,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/e4426c3a9f1d04c0cc2188e9a7b5c6bf.png?v=1744394380",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49882180845868,
+    "alt": null,
+    "position": 1,
+    "product_id": 9611855626540,
+    "created_at": "2025-04-11T11:59:36-06:00",
+    "updated_at": "2025-04-11T11:59:36-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49882180845868",
+    "width": 1540,
+    "height": 1540,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/c5866445284e8a6c4c8e11467a45c122.png?v=1744394376",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": null
+}

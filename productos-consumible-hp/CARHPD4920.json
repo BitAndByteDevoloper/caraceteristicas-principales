@@ -1,0 +1,86 @@
+{
+  "id": 9612066488620,
+  "title": "tinta HP 712",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">tinta HP 712</div>\n        <div class=\"product_description_innova_tech\">Tinta HP 712, 3ED68A, Magenta 29ml</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>712</dd>\n                <dt>Número de Parte:</dt>\n                <dd>3ED68A</dd>\n                <dt>Especificaciones:</dt>\n                <dd>\n<strong>Colores de impresión:</strong> Magenta<br>\n</dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T13:57:07-06:00",
+  "handle": "tinta-hp-718",
+  "updated_at": "2025-06-16T15:43:14-06:00",
+  "published_at": "2024-08-28T13:57:07-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "193905352821, 3ED68A, 712, Centro de Distribucin Azcapotzalco, Centro de Distribucin Hermosillo, Consumibles, HP, Puebla, Tinta, Tlaxcala",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9612066488620",
+  "variants": [
+    {
+      "id": 49704056422700,
+      "product_id": 9612066488620,
+      "title": "Default",
+      "price": "887.43",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T13:57:08-06:00",
+      "updated_at": "2025-06-16T12:42:06-06:00",
+      "taxable": true,
+      "barcode": "193905352821",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "CARHPD4920",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51744903987500,
+      "inventory_quantity": 66,
+      "old_inventory_quantity": 66,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49704056422700",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12038139019564,
+      "product_id": 9612066488620,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49875904463148,
+      "alt": null,
+      "position": 1,
+      "product_id": 9612066488620,
+      "created_at": "2025-04-11T02:17:39-06:00",
+      "updated_at": "2025-04-11T02:17:39-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49875904463148",
+      "width": 1408,
+      "height": 1408,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/fb2ad9d5982b7adbf7de04a1c0cdf96c.png?v=1744359459",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49875904463148,
+    "alt": null,
+    "position": 1,
+    "product_id": 9612066488620,
+    "created_at": "2025-04-11T02:17:39-06:00",
+    "updated_at": "2025-04-11T02:17:39-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49875904463148",
+    "width": 1408,
+    "height": 1408,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/fb2ad9d5982b7adbf7de04a1c0cdf96c.png?v=1744359459",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": "<div class=\"caracter-main\">\n<div class=\"caracter-main-icon-placeholder\">\n<img alt=\"Icono Información\" src=\"https://cdn.shopify.com/s/files/1/0889/0246/7884/files/CaracteristicasBlanco.svg?v=1735255400\"/>\n</div>\n<span class=\"caracter-main-text\">Características Principales</span>\n<div class=\"caracter-main-icon\">\n<svg aria-hidden=\"true\" class=\"icon icon-caret\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n</div>\n<div class=\"caracter-main-content\">\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Peso y dimensiones\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Ancho:</dt>\n<dd>Condiciones ambientalesIntervalo de humedad relativa para funcionamiento10 - 90%Intervalo de temperatura de almacenaje-40 - 60 °CIntervalo de temperatura operativa5 - 35 °C</dd>\n<dt>Ancho:</dt>\n<dd>12.4 cm</dd>\n<dt>Altura:</dt>\n<dd>2.5 cm</dd>\n<dt>Profundidad:</dt>\n<dd>11.5 cm</dd>\n<dt>Peso:</dt>\n<dd>0.05 kg</dd>\n<dt>Intervalo de humedad relativa para funcionamiento:</dt>\n<dd>10 - 90%</dd>\n<dt>Intervalo de temperatura de almacenaje:</dt>\n<dd>-40 - 60 °C</dd>\n<dt>Intervalo de temperatura operativa:</dt>\n<dd>5 - 35 °C</dd>\n</dl>\n</div>\n</div>\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Características\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Tipo:</dt>\n<dd>Original</dd>\n<dt>Tipo de tinta:</dt>\n<dd>Tinta a base de colorante</dd>\n<dt>Colores de impresión:</dt>\n<dd>Magenta</dd>\n<dt>Marca compatible:</dt>\n<dd>HP</dd>\n<dt>Tipo de suministro:</dt>\n<dd>Single pack</dd>\n<dt>Compatibilidad:</dt>\n<dd>DesignJet T210, T230, T250, T630, T650</dd>\n<dt>Cantidad por paquete:</dt>\n<dd>1 pieza(s)</dd>\n<dt>Cantidad de cartuchos de tinta de color:</dt>\n<dd>1</dd>\n<dt>Tipo de cartucho de tinta:</dt>\n<dd>Rendimiento estándar</dd>\n<dt>Volumen de tinta de color:</dt>\n<dd>29 ml</dd>\n<dt>País de origen:</dt>\n<dd>Malasia</dd>\n</dl>\n</div>\n</div>\n</div>"
+}

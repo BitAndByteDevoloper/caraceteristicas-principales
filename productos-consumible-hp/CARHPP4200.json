@@ -1,0 +1,112 @@
+{
+  "id": 9612835520812,
+  "title": "Tinta  HP 3YM80AL",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Tinta  HP 3YM80AL</div>\n        <div class=\"product_description_innova_tech\">Tinta HP 667XL - 3YM80AL, Cian, Magenta, Amarillo - Alto rendimiento</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>3YM80AL</dd>\n                <dt>Número de Parte:</dt>\n                <dd>3YM80AL</dd>\n                <dt>Especificaciones:</dt>\n                <dd></dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T23:44:36-06:00",
+  "handle": "tinta-hp-3ym80al",
+  "updated_at": "2025-06-16T15:44:47-06:00",
+  "published_at": "2024-08-28T23:44:36-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "193015522473, 3YM80AL, Centro de Distribucin Azcapotzalco, Centro de Distribucin Hermosillo, Consumibles, HP, Puebla, Tinta",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9612835520812",
+  "variants": [
+    {
+      "id": 49707269062956,
+      "product_id": 9612835520812,
+      "title": "Default",
+      "price": "742.51",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T23:44:36-06:00",
+      "updated_at": "2025-06-16T15:44:47-06:00",
+      "taxable": true,
+      "barcode": "193015522473",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "CARHPP4200",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51748121510188,
+      "inventory_quantity": 511,
+      "old_inventory_quantity": 511,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49707269062956",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12039080706348,
+      "product_id": 9612835520812,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49875947553068,
+      "alt": null,
+      "position": 1,
+      "product_id": 9612835520812,
+      "created_at": "2025-04-11T02:23:14-06:00",
+      "updated_at": "2025-04-11T02:23:14-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49875947553068",
+      "width": 770,
+      "height": 770,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/fe378a3d9223261eca70b3a9a6ae930b.png?v=1744359794",
+      "variant_ids": []
+    },
+    {
+      "id": 49875947815212,
+      "alt": null,
+      "position": 2,
+      "product_id": 9612835520812,
+      "created_at": "2025-04-11T02:23:16-06:00",
+      "updated_at": "2025-04-11T02:23:17-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49875947815212",
+      "width": 1408,
+      "height": 1408,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/099cfd72bc84e0ed6819727348612286.png?v=1744359796",
+      "variant_ids": []
+    },
+    {
+      "id": 49875948077356,
+      "alt": null,
+      "position": 3,
+      "product_id": 9612835520812,
+      "created_at": "2025-04-11T02:23:18-06:00",
+      "updated_at": "2025-04-11T02:23:18-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49875948077356",
+      "width": 1280,
+      "height": 1280,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/e19fa0bf684c88a008e7b40c184b73e4_9b91d304-6ede-45d6-9e61-0c7bbc96ab51.png?v=1744359798",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49875947553068,
+    "alt": null,
+    "position": 1,
+    "product_id": 9612835520812,
+    "created_at": "2025-04-11T02:23:14-06:00",
+    "updated_at": "2025-04-11T02:23:14-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49875947553068",
+    "width": 770,
+    "height": 770,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/fe378a3d9223261eca70b3a9a6ae930b.png?v=1744359794",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": "<div class=\"caracter-main\">\n<div class=\"caracter-main-icon-placeholder\">\n<img alt=\"Icono Información\" src=\"https://cdn.shopify.com/s/files/1/0889/0246/7884/files/CaracteristicasBlanco.svg?v=1735255400\"/>\n</div>\n<span class=\"caracter-main-text\">Características Principales</span>\n<div class=\"caracter-main-icon\">\n<svg aria-hidden=\"true\" class=\"icon icon-caret\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n</div>\n<div class=\"caracter-main-content\">\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Características\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Acerca de:</dt>\n<dd>Cartucho HP 667XL. Modelo: 3YM80AL. Tricolor. Rendimiento: 330 págs. Compatible con: Impresora Todo-en-uno HP Deskjet Ink Advantage 2374. Dimensiones: 114 mm x 36 mm x 102 mm. Peso 0.50kg.</dd>\n</dl>\n</div>\n</div>\n</div>"
+}

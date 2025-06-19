@@ -1,0 +1,125 @@
+{
+  "id": 9852897853740,
+  "title": "Plotter HP T650",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\"></div>\n        <div class=\"product_description_innova_tech\"></div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd></dd>\n                <dt>Modelo:</dt>\n                <dd></dd>\n                <dt>Número de Parte:</dt>\n                <dd></dd>\n                <dt>Especificaciones:</dt>\n                <dd></dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2025-02-28T23:39:14-06:00",
+  "handle": "plotter-hp-t650",
+  "updated_at": "2025-06-16T16:23:37-06:00",
+  "published_at": "2025-02-28T23:39:14-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "198701027904, 5HB10D, Centro de Distribucin Azcapotzalco, Consumibles, HP, Plotter, T650",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9852897853740",
+  "variants": [
+    {
+      "id": 50671862087980,
+      "product_id": 9852897853740,
+      "title": "Default",
+      "price": "66392.96",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2025-02-28T23:39:14-06:00",
+      "updated_at": "2025-06-16T13:21:35-06:00",
+      "taxable": true,
+      "barcode": "198701027904",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "PLOHPD840",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 52717100204332,
+      "inventory_quantity": 4,
+      "old_inventory_quantity": 4,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/50671862087980",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12319015043372,
+      "product_id": 9852897853740,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49880361926956,
+      "alt": null,
+      "position": 1,
+      "product_id": 9852897853740,
+      "created_at": "2025-04-11T09:21:52-06:00",
+      "updated_at": "2025-04-11T09:21:52-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49880361926956",
+      "width": 770,
+      "height": 770,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/342a4546de845130ba9e2f243862a659.png?v=1744384912",
+      "variant_ids": []
+    },
+    {
+      "id": 49880362058028,
+      "alt": null,
+      "position": 2,
+      "product_id": 9852897853740,
+      "created_at": "2025-04-11T09:21:53-06:00",
+      "updated_at": "2025-04-11T09:21:53-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49880362058028",
+      "width": 770,
+      "height": 770,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/1e5cbf51893fea55138d1f8a1d318ba4.png?v=1744384913",
+      "variant_ids": []
+    },
+    {
+      "id": 49880362254636,
+      "alt": null,
+      "position": 3,
+      "product_id": 9852897853740,
+      "created_at": "2025-04-11T09:21:55-06:00",
+      "updated_at": "2025-04-11T09:21:55-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49880362254636",
+      "width": 770,
+      "height": 770,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/2b41f949327b12496b26f3e41b56872e.png?v=1744384915",
+      "variant_ids": []
+    },
+    {
+      "id": 49880362385708,
+      "alt": null,
+      "position": 4,
+      "product_id": 9852897853740,
+      "created_at": "2025-04-11T09:21:56-06:00",
+      "updated_at": "2025-04-11T09:21:56-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49880362385708",
+      "width": 770,
+      "height": 770,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/b6d66695d1012d7b707766db3a494a43.png?v=1744384916",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49880361926956,
+    "alt": null,
+    "position": 1,
+    "product_id": 9852897853740,
+    "created_at": "2025-04-11T09:21:52-06:00",
+    "updated_at": "2025-04-11T09:21:52-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49880361926956",
+    "width": 770,
+    "height": 770,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/342a4546de845130ba9e2f243862a659.png?v=1744384912",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": "<div class=\"caracter-main\">\n<div class=\"caracter-main-icon-placeholder\">\n<img alt=\"Icono Información\" src=\"https://cdn.shopify.com/s/files/1/0889/0246/7884/files/CaracteristicasBlanco.svg?v=1735255400\"/>\n</div>\n<span class=\"caracter-main-text\">Características Principales</span>\n<div class=\"caracter-main-icon\">\n<svg aria-hidden=\"true\" class=\"icon icon-caret\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n</div>\n<div class=\"caracter-main-content\">\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Características\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Acerca de:</dt>\n<dd>Plotter HP DesignJet T650 de 36 pulgadas, Modelo: 5HB10D Funciones: Impresión Tecnología de impresión HP Thermal Inkjet Velocidad de impresión 25 segundos por página en A1, 82 impresiones A1 por hora[1]. Volumen de cartucho de impresión proporcionado 80 ml (K); 38 ml (K); 29 ml (C, M, Y) por cartucho. Manejo de impresiones terminadas Alimentador de hojas, alimentador de rollos, alimentador automático de hojas, bandeja de materiales, cortador horizontal automático. Tipos de soportes Papel bond y recubierto (bond, recubierto, recubierto de gramaje extra, normal, blanco brillante, plano), papel técnico (calco natural), película (transparente, mate), papel fotográfico (satinado, brillante, semibrillante, polipropileno), autoadhesivo (adhesivo, polipropileno</dd>\n</dl>\n</div>\n</div>\n</div>"
+}

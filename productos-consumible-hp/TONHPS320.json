@@ -1,0 +1,99 @@
+{
+  "id": 9991029424428,
+  "title": "Tóner HP MLT-D303E",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Tóner HP MLT-D303E</div>\n        <div class=\"product_description_innova_tech\">Tóner Samsung, SV026A, MLT-D303E - Negro</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>MLT-D303E</dd>\n                <dt>Número de Parte:</dt>\n                <dd>SV026A</dd>\n                <dt>Especificaciones:</dt>\n                <dd>\n<strong>Producción de papel:</strong> 40000 páginas<br><strong>Colores de impresión:</strong> Negro<br>\n</dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2025-05-29T22:52:51-06:00",
+  "handle": "toner-hp-mlt-d303e",
+  "updated_at": "2025-06-05T09:27:53-06:00",
+  "published_at": "2025-05-29T22:52:51-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "Sin Stock",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9991029424428",
+  "variants": [
+    {
+      "id": 51146566435116,
+      "product_id": 9991029424428,
+      "title": "Default",
+      "price": "5477.16",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2025-05-29T22:52:51-06:00",
+      "updated_at": "2025-06-03T16:45:22-06:00",
+      "taxable": true,
+      "barcode": "191628483709",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "TONHPS320",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 53191768473900,
+      "inventory_quantity": 0,
+      "old_inventory_quantity": 0,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/51146566435116",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12469039694124,
+      "product_id": 9991029424428,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 50363654308140,
+      "alt": null,
+      "position": 1,
+      "product_id": 9991029424428,
+      "created_at": "2025-05-29T22:52:53-06:00",
+      "updated_at": "2025-05-29T22:52:53-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/50363654308140",
+      "width": 1100,
+      "height": 1100,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/2e996f6b440e8fac5c79cb1098f06731.png?v=1748580773",
+      "variant_ids": []
+    },
+    {
+      "id": 50363654701356,
+      "alt": null,
+      "position": 2,
+      "product_id": 9991029424428,
+      "created_at": "2025-05-29T22:52:54-06:00",
+      "updated_at": "2025-05-29T22:52:54-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/50363654701356",
+      "width": 990,
+      "height": 990,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/d4b52848f76d10b228879de113716b84.png?v=1748580774",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 50363654308140,
+    "alt": null,
+    "position": 1,
+    "product_id": 9991029424428,
+    "created_at": "2025-05-29T22:52:53-06:00",
+    "updated_at": "2025-05-29T22:52:53-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/50363654308140",
+    "width": 1100,
+    "height": 1100,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/2e996f6b440e8fac5c79cb1098f06731.png?v=1748580773",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": null
+}

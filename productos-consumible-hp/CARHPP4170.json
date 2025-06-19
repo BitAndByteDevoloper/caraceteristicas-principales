@@ -1,0 +1,86 @@
+{
+  "id": 9611941544236,
+  "title": "Botella de tinta HP GT53",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Botella de tinta HP GT53</div>\n        <div class=\"product_description_innova_tech\">Botella de tinta HP GT53, 1VV22AL, Negro</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>GT53</dd>\n                <dt>Número de Parte:</dt>\n                <dd>1VV22AL</dd>\n                <dt>Especificaciones:</dt>\n                <dd>\n<strong>Marca compatible:</strong> HP<br><strong>Tipo de embalaje:</strong> Botella<br><strong>Colores de impresión:</strong> Negro<br>\n</dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T12:25:56-06:00",
+  "handle": "botella-de-tinta-hp-gt53",
+  "updated_at": "2025-06-16T18:43:15-06:00",
+  "published_at": "2024-08-28T12:25:56-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "192545527583, 1VV22AL, Centro de Distribucin Azcapotzalco, Consumibles, GT53, HP, Puebla, Tinta, Tlaxcala",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9611941544236",
+  "variants": [
+    {
+      "id": 49703487471916,
+      "product_id": 9611941544236,
+      "title": "Default",
+      "price": "187.05",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T12:25:56-06:00",
+      "updated_at": "2025-06-16T18:43:15-06:00",
+      "taxable": true,
+      "barcode": "192545527583",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "CARHPP4170",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51744328679724,
+      "inventory_quantity": 1274,
+      "old_inventory_quantity": 1274,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49703487471916",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12037974622508,
+      "product_id": 9611941544236,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49875946012972,
+      "alt": null,
+      "position": 1,
+      "product_id": 9611941544236,
+      "created_at": "2025-04-11T02:23:03-06:00",
+      "updated_at": "2025-04-11T02:23:04-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49875946012972",
+      "width": 880,
+      "height": 880,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/5fb21a3cd80154fe8bf0b3fdb70c933d.png?v=1744359783",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49875946012972,
+    "alt": null,
+    "position": 1,
+    "product_id": 9611941544236,
+    "created_at": "2025-04-11T02:23:03-06:00",
+    "updated_at": "2025-04-11T02:23:04-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49875946012972",
+    "width": 880,
+    "height": 880,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/5fb21a3cd80154fe8bf0b3fdb70c933d.png?v=1744359783",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": "<div class=\"caracter-main\">\n<div class=\"caracter-main-icon-placeholder\">\n<img alt=\"Icono Información\" src=\"https://cdn.shopify.com/s/files/1/0889/0246/7884/files/CaracteristicasBlanco.svg?v=1735255400\"/>\n</div>\n<span class=\"caracter-main-text\">Características Principales</span>\n<div class=\"caracter-main-icon\">\n<svg aria-hidden=\"true\" class=\"icon icon-caret\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n</div>\n<div class=\"caracter-main-content\">\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Peso y dimensiones\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Ancho:</dt>\n<dd>Condiciones ambientalesIntervalo de humedad relativa para funcionamiento20 - 80%Intervalo de temperatura de almacenaje-40 - 60 °CIntervalo de temperatura operativa15 - 32 °CIntervalo de humedad relativa durante almacenaje20 - 80%</dd>\n<dt>Ancho:</dt>\n<dd>4.8 cm</dd>\n<dt>Altura:</dt>\n<dd>15 cm</dd>\n<dt>Profundidad:</dt>\n<dd>4.8 cm</dd>\n<dt>Peso:</dt>\n<dd>0.15 kg</dd>\n<dt>Intervalo de humedad relativa para funcionamiento:</dt>\n<dd>20 - 80%</dd>\n<dt>Intervalo de temperatura de almacenaje:</dt>\n<dd>-40 - 60 °C</dd>\n<dt>Intervalo de temperatura operativa:</dt>\n<dd>15 - 32 °C</dd>\n<dt>Intervalo de humedad relativa durante almacenaje:</dt>\n<dd>20 - 80%</dd>\n</dl>\n</div>\n</div>\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Características\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Tipo:</dt>\n<dd>Datos logísticosAnchura del palé121,9 cmLongitud del palé101,6 cmAltura del palé135,4 cmCantidad por palé2688 pieza(s)Peso del palé412,3 kgAncho de la caja principal31,3 cmLongitud de la caja21,7 cmAlto de la caja principal17,5 cmCantidad por caja24 pieza(s)Peso del envase completo3,57 kgPaís de origenMalasia</dd>\n<dt>Tipo:</dt>\n<dd>Original</dd>\n<dt>Tipo de tinta:</dt>\n<dd>Tinta a base de pigmentos</dd>\n<dt>Colores de impresión:</dt>\n<dd>Negro</dd>\n<dt>Marca compatible:</dt>\n<dd>HP</dd>\n<dt>Multipack:</dt>\n<dd>No</dd>\n<dt>Compatibilidad:</dt>\n<dd>Smart Tank 510, Smart Tank Plus 550, Smart Tank Plus 610</dd>\n<dt>Cantidad por paquete:</dt>\n<dd>1 pieza(s)</dd>\n<dt>Cantidad de cartuchos de tinta negra:</dt>\n<dd>1</dd>\n<dt>Tipo de cartucho de tinta:</dt>\n<dd>Rendimiento estándar</dd>\n<dt>Rendimiento de impresión de página con tinta negra:</dt>\n<dd>4000 páginas</dd>\n<dt>Anchura del palé:</dt>\n<dd>121,9 cm</dd>\n<dt>Longitud del palé:</dt>\n<dd>101,6 cm</dd>\n<dt>Altura del palé:</dt>\n<dd>135,4 cm</dd>\n<dt>Cantidad por palé:</dt>\n<dd>2688 pieza(s)</dd>\n<dt>Peso del palé:</dt>\n<dd>412,3 kg</dd>\n<dt>Ancho de la caja principal:</dt>\n<dd>31,3 cm</dd>\n<dt>Longitud de la caja:</dt>\n<dd>21,7 cm</dd>\n<dt>Alto de la caja principal:</dt>\n<dd>17,5 cm</dd>\n<dt>Cantidad por caja:</dt>\n<dd>24 pieza(s)</dd>\n<dt>Peso del envase completo:</dt>\n<dd>3,57 kg</dd>\n<dt>País de origen:</dt>\n<dd>Malasia</dd>\n</dl>\n</div>\n</div>\n</div>"
+}

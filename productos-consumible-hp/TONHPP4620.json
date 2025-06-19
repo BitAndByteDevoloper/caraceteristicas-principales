@@ -1,0 +1,86 @@
+{
+  "id": 9612851642668,
+  "title": "Tóner HP 222X",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Tóner HP 222X</div>\n        <div class=\"product_description_innova_tech\">HP TONER 222X W2223X MAGENTA -</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>222X</dd>\n                <dt>Número de Parte:</dt>\n                <dd>W2223X</dd>\n                <dt>Especificaciones:</dt>\n                <dd></dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T23:59:47-06:00",
+  "handle": "toner-hp-222x-3",
+  "updated_at": "2025-06-16T16:39:48-06:00",
+  "published_at": "2024-08-28T23:59:47-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "195161016417, 222X, Centro de Distribucin Azcapotzalco, Consumibles, HP, Tners, W2223X",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9612851642668",
+  "variants": [
+    {
+      "id": 49707325096236,
+      "product_id": 9612851642668,
+      "title": "Default",
+      "price": "2323.69",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T23:59:47-06:00",
+      "updated_at": "2025-06-11T23:02:16-06:00",
+      "taxable": true,
+      "barcode": "",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "TONHPP4620",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51748177543468,
+      "inventory_quantity": 1,
+      "old_inventory_quantity": 1,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49707325096236",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12039098401068,
+      "product_id": 9612851642668,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49882176520492,
+      "alt": null,
+      "position": 1,
+      "product_id": 9612851642668,
+      "created_at": "2025-04-11T11:59:03-06:00",
+      "updated_at": "2025-04-11T11:59:03-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49882176520492",
+      "width": 880,
+      "height": 880,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/8c84c832692cf3054f500796d341f6a2.png?v=1744394343",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49882176520492,
+    "alt": null,
+    "position": 1,
+    "product_id": 9612851642668,
+    "created_at": "2025-04-11T11:59:03-06:00",
+    "updated_at": "2025-04-11T11:59:03-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49882176520492",
+    "width": 880,
+    "height": 880,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/8c84c832692cf3054f500796d341f6a2.png?v=1744394343",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": "<div class=\"caracter-main\">\n<div class=\"caracter-main-icon-placeholder\">\n<img alt=\"Icono Información\" src=\"https://cdn.shopify.com/s/files/1/0889/0246/7884/files/CaracteristicasBlanco.svg?v=1735255400\"/>\n</div>\n<span class=\"caracter-main-text\">Características Principales</span>\n<div class=\"caracter-main-icon\">\n<svg aria-hidden=\"true\" class=\"icon icon-caret\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n</div>\n<div class=\"caracter-main-content\">\n<div class=\"caracter-main-subaccordion\">\n<div class=\"caracter-main-subaccordion-header\">\n                Características\n                <!-- Flecha para indicar subacordeón -->\n<svg aria-hidden=\"true\" focusable=\"false\" viewbox=\"0 0 10 6\">\n<path clip-rule=\"evenodd\" d=\"M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path>\n</svg>\n</div>\n<div class=\"caracter-main-subaccordion-content\">\n<dl>\n<dt>Acerca de:</dt>\n<dd>Toner HP 222X. Modelo: W2223X. Color: Magenta. Rendimiento: 2,500 págs. Compatible con: HP LaserJet Pro 3201-3204, 3288, MFP 3303, 3388. Dimensiones: 36.3 cm x 96.0 cm x 11.1 cm. Peso: 0.74 kg.</dd>\n</dl>\n</div>\n</div>\n</div>"
+}

@@ -1,0 +1,99 @@
+{
+  "id": 9611983388972,
+  "title": "Tambor HP 104A",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Tambor HP 104A</div>\n        <div class=\"product_description_innova_tech\">Tambor HP 104A, W1104A, Negro</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>104A</dd>\n                <dt>Número de Parte:</dt>\n                <dd>W1104A</dd>\n                <dt>Especificaciones:</dt>\n                <dd>\n<strong>Tecnología de impresión:</strong> Láser<br><strong>Marca compatible:</strong> HP<br><strong>Colores de impresión:</strong> Negro<br><strong>Tipo de embalaje:</strong> Caja<br>\n</dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2024-08-28T12:55:53-06:00",
+  "handle": "tambor-hp-104a",
+  "updated_at": "2025-06-16T16:38:40-06:00",
+  "published_at": "2024-08-28T12:55:53-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "104A, 193015553255, Centro de Distribucin Azcapotzalco, Centro de Distribucin Hermosillo, Consumibles, HP, Puebla, Tambor, Tlaxcala, W1104A",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9611983388972",
+  "variants": [
+    {
+      "id": 49703716323628,
+      "product_id": 9611983388972,
+      "title": "Default",
+      "price": "2042.13",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2024-08-28T12:55:53-06:00",
+      "updated_at": "2025-06-16T16:38:40-06:00",
+      "taxable": true,
+      "barcode": "193015553255",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "TONHPP3730",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 51744557498668,
+      "inventory_quantity": 217,
+      "old_inventory_quantity": 217,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/49703716323628",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12038029181228,
+      "product_id": 9611983388972,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 49881931907372,
+      "alt": null,
+      "position": 1,
+      "product_id": 9611983388972,
+      "created_at": "2025-04-11T11:36:05-06:00",
+      "updated_at": "2025-04-11T11:36:05-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49881931907372",
+      "width": 770,
+      "height": 770,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/bb8b0b39e10ef441a2438bf59f649eb8.png?v=1744392965",
+      "variant_ids": []
+    },
+    {
+      "id": 49881932235052,
+      "alt": null,
+      "position": 2,
+      "product_id": 9611983388972,
+      "created_at": "2025-04-11T11:36:07-06:00",
+      "updated_at": "2025-04-11T11:36:07-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/49881932235052",
+      "width": 880,
+      "height": 880,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/ee4b35ff0dcb1aca25c3c525ed70229f.png?v=1744392967",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 49881931907372,
+    "alt": null,
+    "position": 1,
+    "product_id": 9611983388972,
+    "created_at": "2025-04-11T11:36:05-06:00",
+    "updated_at": "2025-04-11T11:36:05-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/49881931907372",
+    "width": 770,
+    "height": 770,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/bb8b0b39e10ef441a2438bf59f649eb8.png?v=1744392965",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": null
+}

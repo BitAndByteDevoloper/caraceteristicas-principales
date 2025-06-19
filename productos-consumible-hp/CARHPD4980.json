@@ -1,0 +1,99 @@
+{
+  "id": 9832465662252,
+  "title": "Cabezal HP 713",
+  "body_html": "<body>\n\n\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detalles del Producto</title>\n    <style>\n        /* Tus estilos aquí */\n        .container_innova_tech {\n            width: 100%;\n            max-width: 1000px;\n            background-color: #fff;\n            padding: 20px;\n            margin: 0 auto;\n        }\n        .product_title_innova_tech {\n            font-size: 2em;\n            font-weight: bold;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .product_description_innova_tech {\n            margin-bottom: 20px;\n            color: #555;\n        }\n        .details_section_innova_tech {\n            margin-top: 20px;\n        }\n        .details_section_innova_tech h2 {\n            font-size: 1.2em;\n            margin-bottom: 10px;\n            color: #333;\n        }\n        .details_section_innova_tech dl {\n            margin: 0;\n            padding: 0;\n        }\n        .details_section_innova_tech dt {\n            font-weight: bold;\n            margin-bottom: 5px;\n        }\n        .details_section_innova_tech dd {\n            margin: 0 0 10px 0;\n            padding: 0 0 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n    </style>\n\n\n    <div class=\"container_innova_tech\">\n        <div class=\"product_title_innova_tech\">Cabezal HP 713</div>\n        <div class=\"product_description_innova_tech\">Cabezal HP 713, 3ED58A, Negro - Cian - Magenta - Amarillo</div>\n        <div class=\"details_section_innova_tech\">\n            <h2>Detalles del Producto</h2>\n            <dl>\n                <dt>Marca:</dt>\n                <dd>HP</dd>\n                <dt>Modelo:</dt>\n                <dd>713</dd>\n                <dt>Número de Parte:</dt>\n                <dd>3ED58A</dd>\n                <dt>Especificaciones:</dt>\n                <dd>None</dd>\n            </dl>\n        </div>\n    </div>\n\n</body>",
+  "vendor": "HP",
+  "product_type": "Consumibles",
+  "created_at": "2025-02-09T13:48:54-06:00",
+  "handle": "cabezal-hp-713",
+  "updated_at": "2025-02-10T12:43:39-06:00",
+  "published_at": "2025-02-09T13:48:54-06:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "Sin Stock",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/9832465662252",
+  "variants": [
+    {
+      "id": 50581804220716,
+      "product_id": 9832465662252,
+      "title": "Default",
+      "price": "8365.73",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Default",
+      "option2": null,
+      "option3": null,
+      "created_at": "2025-02-09T13:48:54-06:00",
+      "updated_at": "2025-02-09T16:42:20-06:00",
+      "taxable": true,
+      "barcode": "193905352807",
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "CARHPD4980",
+      "weight": 0.0,
+      "weight_unit": "kg",
+      "inventory_item_id": 52626826002732,
+      "inventory_quantity": 0,
+      "old_inventory_quantity": 0,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/50581804220716",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 12295027982636,
+      "product_id": 9832465662252,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 48988256502060,
+      "alt": null,
+      "position": 1,
+      "product_id": 9832465662252,
+      "created_at": "2025-02-09T13:48:56-06:00",
+      "updated_at": "2025-02-09T13:48:56-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/48988256502060",
+      "width": 1536,
+      "height": 1536,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/72f4e4fcecdc68107ea7fb80f3600fad.jpg?v=1739130536",
+      "variant_ids": []
+    },
+    {
+      "id": 48988256567596,
+      "alt": null,
+      "position": 2,
+      "product_id": 9832465662252,
+      "created_at": "2025-02-09T13:48:58-06:00",
+      "updated_at": "2025-02-09T13:48:58-06:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/48988256567596",
+      "width": 1536,
+      "height": 1536,
+      "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/6766aad3803d8ac7269daa054e11ee7d.jpg?v=1739130538",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 48988256502060,
+    "alt": null,
+    "position": 1,
+    "product_id": 9832465662252,
+    "created_at": "2025-02-09T13:48:56-06:00",
+    "updated_at": "2025-02-09T13:48:56-06:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/48988256502060",
+    "width": 1536,
+    "height": 1536,
+    "src": "https://cdn.shopify.com/s/files/1/0889/0246/7884/files/72f4e4fcecdc68107ea7fb80f3600fad.jpg?v=1739130536",
+    "variant_ids": []
+  },
+  "custom_caracteristicas": null
+}
